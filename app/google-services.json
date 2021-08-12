@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461682886606",
+    "firebase_url": "https://ta-alarm-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ta-alarm",
+    "storage_bucket": "ta-alarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461682886606:android:7b214bf9da5db61f02cd9f",
+        "android_client_info": {
+          "package_name": "com.eunwoo.ta_alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461682886606-eag3nqmcfiv465p9b0s1ql706vb917li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eunwoo.ta_alarm",
+            "certificate_hash": "6b411379e60add39ab95091b19b29a40116cf2f8"
+          }
+        },
+        {
+          "client_id": "461682886606-034bth4ffrdddap8irglqn1eme8ddj9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-27-dGU0G2EK9sOJnCnnuOEJC6PwTrJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461682886606-034bth4ffrdddap8irglqn1eme8ddj9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

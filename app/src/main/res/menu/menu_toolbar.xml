@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_location"
+        android:icon="@drawable/add_location"
+        android:title="addLocation"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/remove_location"
+        android:icon="@drawable/remove_location"
+        android:title="removeLocation"
+        app:showAsAction="always"
+        />
+
+    <item android:title="refresh"
+        android:id="@+id/searching_refresh"
+        android:icon="@drawable/searching_refresh"
+        app:showAsAction="always"
+        />
+</menu>
